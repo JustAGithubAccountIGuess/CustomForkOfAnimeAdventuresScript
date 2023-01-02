@@ -63,7 +63,7 @@ local function webhook()
 							["inline"] = true
 						}, {
 							["name"] = "Bread recived:",
-							["value"] = gems .. " <:bread>",
+							["value"] = bread .. " <:bread>",
 							["inline"] = true
 						}, {
                             ["name"] = " XP you got :",
